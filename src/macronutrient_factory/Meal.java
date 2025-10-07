@@ -13,6 +13,6 @@ public class Meal {
 
     @Override
     public String toString() {
-        return "Carb: " + carb + "| Protein: " + protein + "| Fat: " + fat;
+        return "Carb: " + carb + " | Protein: " + protein + " | Fat: " + fat;
     }
 }

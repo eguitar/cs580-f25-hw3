@@ -21,7 +21,7 @@ public class Main {
             Meal meal = new Meal(carb, protein, fat);
 
             System.out.println("Customer: " + c);
-            System.out.println("Generated Meal → " + meal + "\n");
+            System.out.println("Generated Meal -- " + meal + "\n");
         }
     }
 }
